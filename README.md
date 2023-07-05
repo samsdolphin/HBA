@@ -11,7 +11,7 @@
 </div>
 
 ## **2. Paper and Video**
-Our paper has been publised on [IEEE RA-L](https://ieeexplore.ieee.org/abstract/document/10024300) and the corresponding video could be watched on [Bilibili](https://www.bilibili.com/video/BV1Qg41127j9/?spm_id_from=333.999.0.0) or [YouTuBe](https://youtu.be/CuLnTnXVujw). If you find our work useful in your research, please consider citing:
+Our paper has been publised on [IEEE RA-L](https://ieeexplore.ieee.org/abstract/document/10024300) and the corresponding video could be watched on [Bilibili](https://www.bilibili.com/video/BV1Qg41127j9/?spm_id_from=333.999.0.0) or [YouTuBe](https://youtu.be/CuLnTnXVujw). Our code has been released on [hku-mars/HBA](https://github.com/hku-mars/HBA). If you find our work useful in your research, please consider citing:
 
 ```
 @ARTICLE{10024300,
